@@ -1,0 +1,12 @@
+{
+	"name": "ffxiv-map-icons",
+	"version": "0.1.0",
+	"description": "Helper tool for drawing FFXIV maps.",
+	"author": "chirp (https://github.com/chrpy)",
+	"url": "https://github.com/chrpy/ffxiv-map-icons",
+	"repository": "github:chrpy/ffxiv-map-icons",
+	"main": "./src/XivMap.js",
+	"dependencies": {
+		"canvas": "latest"
+	}
+}
